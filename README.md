@@ -3,4 +3,4 @@
 <h2>Game application with js </h2
 
 ![](TicTacToe.gif)
-g
+
